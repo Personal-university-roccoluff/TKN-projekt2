@@ -1,0 +1,6 @@
+/Users/roccoluffarelli/TU_Informatik/Drittes_Semester/Rechnernetze und Verteilte Systeme/Projekte/Projekt_2/TKN-projekt2/cmake-build-debug/CMakeFiles/client.dir
+/Users/roccoluffarelli/TU_Informatik/Drittes_Semester/Rechnernetze und Verteilte Systeme/Projekte/Projekt_2/TKN-projekt2/cmake-build-debug/CMakeFiles/peer.dir
+/Users/roccoluffarelli/TU_Informatik/Drittes_Semester/Rechnernetze und Verteilte Systeme/Projekte/Projekt_2/TKN-projekt2/cmake-build-debug/CMakeFiles/package.dir
+/Users/roccoluffarelli/TU_Informatik/Drittes_Semester/Rechnernetze und Verteilte Systeme/Projekte/Projekt_2/TKN-projekt2/cmake-build-debug/CMakeFiles/package_source.dir
+/Users/roccoluffarelli/TU_Informatik/Drittes_Semester/Rechnernetze und Verteilte Systeme/Projekte/Projekt_2/TKN-projekt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roccoluffarelli/TU_Informatik/Drittes_Semester/Rechnernetze und Verteilte Systeme/Projekte/Projekt_2/TKN-projekt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
