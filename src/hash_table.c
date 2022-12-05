@@ -3,6 +3,7 @@
 void htable_set(htable **ht, const unsigned char *key, size_t key_len,
                 const unsigned char *value, size_t value_len) {
     /* TODO IMPLEMENT */
+    // TEST TEST TEST
 }
 
 htable *htable_get(htable **ht, const unsigned char *key, size_t key_len) {
